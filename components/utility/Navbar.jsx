@@ -19,7 +19,7 @@ const NavBar = ({ name }) => {
 
   return (
     <nav className="w-full relative">
-      <div className="flex sm:justify-between md:justify-left  py-8 text-white w-full items-center">
+      <div className="flex sm:justify-between md:justify-left text-white w-full items-center">
         <Image
           src="/assets/shared/logo.svg"
           height={48}
